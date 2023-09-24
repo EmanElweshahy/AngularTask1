@@ -1,0 +1,11 @@
+input{
+    padding-top: 30px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.btn{
+    background-color: #1ABC9C;
+    margin-top: 15px;
+    color: white;
+}

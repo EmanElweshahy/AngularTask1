@@ -1,0 +1,12 @@
+.footer{
+    background-color: #2C3E50 !important;
+}
+.col-md-4{
+    text-align: center;
+}
+.social i{
+    border: 1px solid white;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 50%;
+}
